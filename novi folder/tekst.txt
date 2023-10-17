@@ -1,2 +1,2 @@
-Ovo je dokument.
-Ovo je nova linija.
+Ovo je dokument neka druga promjena.
+Ovo je nova linija. i zarez,
