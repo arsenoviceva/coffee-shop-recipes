@@ -1,2 +1,4 @@
 Ovo je dokument.
-Ovo je nova linija.
+Ovo je nova linija u produzetku.
+
+Jos jedna linija
